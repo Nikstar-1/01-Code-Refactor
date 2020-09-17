@@ -1,3 +1,27 @@
+Website Title and Description
+Horiseon - All About Marketing, Is a company that works towards improving websites through 3 key areas, those being; Search Engine Optimisation, Online Reputation Management, and Social Media Marketing.
+
+The website can be found at the following address https://nikstar-1.github.io/01-Code-Refactor/
+
+Code Refractoring
+The website has been restored in the follwing ways
+- Updating current HTML to HTML5 Smantic tags and attributes
+- Updating CSS with relevent CLASS IDs for better usability and fewer repetitions where unnecessary  
+- An addition of ALT tags for improved accesibilty for website users
+- A tab bar added with a Marketing logo/tag
+- Headings fall in a sequential order
+- Concise descrpitive title
+- Footer added and edited
+
+On solving all of the above issues, I have realised the importance of accessibility for users of all backgrounds, especially special users with disabilities. I wanted to make this website to fit everybody’s needs and have added the above for all these great benefits.
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
